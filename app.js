@@ -1,4 +1,5 @@
-function sumOfTwoNumbers(num1, num2) {
-  return num1 + num2;
+function hoursIntoSeconds(hour) {
+    return hour * 3600
 }
-console.log(sumOfTwoNumbers(2, 3))
+
+console.log(hoursIntoSeconds(2))
