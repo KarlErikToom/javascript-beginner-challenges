@@ -1,4 +1,4 @@
-function calcTriangleArea(base, height) {
-    return 0.5 * base *height
+function appendFrontend (string) {
+return string + ' frontend'
 }
-console.log(calcTriangleArea(10, 10))
+console.log(appendFrontend('fruit'))
