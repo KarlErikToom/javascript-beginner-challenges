@@ -3,8 +3,8 @@
 }
 sumOfTwoNumbers(50, 40);
 */
-function sumOfTwoNumbers(num1, num2) {
-    return num1 + num2 >100
+function lessThanOrEqualToZero(num) {
+    return num <=0
   }
-  console.log(sumOfTwoNumbers(50,60))
+  console.log(lessThanOrEqualToZero(-1))
   
