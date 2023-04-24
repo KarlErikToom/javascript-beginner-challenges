@@ -1,4 +1,4 @@
-function isNotZero(element) {
-  return element !== 0
+function calcRemainder (num1, num2) {
+return num1 % num2
 }
-console.log(isNotZero('fa'));
+console.log(calcRemainder(9, 8))
